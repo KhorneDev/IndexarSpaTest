@@ -1,0 +1,7 @@
+C:\Users\alfre\source\repos\IndexarProyect\IndexarProyect\bin\Debug\IndexarProyect.exe.config
+C:\Users\alfre\source\repos\IndexarProyect\IndexarProyect\bin\Debug\IndexarProyect.exe
+C:\Users\alfre\source\repos\IndexarProyect\IndexarProyect\bin\Debug\IndexarProyect.pdb
+C:\Users\alfre\source\repos\IndexarProyect\IndexarProyect\obj\Debug\IndexarProyect.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\IndexarProyect\IndexarProyect\obj\Debug\IndexarProyect.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\IndexarProyect\IndexarProyect\obj\Debug\IndexarProyect.exe
+C:\Users\alfre\source\repos\IndexarProyect\IndexarProyect\obj\Debug\IndexarProyect.pdb
